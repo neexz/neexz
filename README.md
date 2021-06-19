@@ -4,22 +4,22 @@
 
 ---
 
-<img alt="ya" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgifimage.net%2Fwp-content%2Fuploads%2F2017%2F08%2Frikka-takanashi-gif-25.gif&f=1&nofb=1" align="right"/>
+<img alt="ya" src="https://cdn.discordapp.com/attachments/855701330147409921/855753950980472853/unknown.png" align="right"/>
 
 #### Languages
-- ![JS](https://img.shields.io/badge/-Javascript-FF008F)
-- ![HTML](https://img.shields.io/badge/-Html-FF008F)
-- ![CSS](https://img.shields.io/badge/-Css-FF008F)
-- ![PY](https://img.shields.io/badge/-Python-FF008F)
-- ![BAT](https://img.shields.io/badge/-Batchfile-FF008F)
+- ![JS](https://img.shields.io/badge/-Javascript-8000ff)
+- ![HTML](https://img.shields.io/badge/-Html-8000ff)
+- ![CSS](https://img.shields.io/badge/-Css-8000ff)
+- ![PY](https://img.shields.io/badge/-Python-8000ff)
+- ![BAT](https://img.shields.io/badge/-Batchfile-8000ff)
 
 #### Programs
-- ![VS](https://img.shields.io/badge/-Visual%20Studio-FF008F)
-- ![VSC](https://img.shields.io/badge/-Visual%20Studio%20Code-FF008F)
-- ![Replit](https://img.shields.io/badge/-Repl.it-FF008F)
+- ![VS](https://img.shields.io/badge/-Visual%20Studio-8000ff)
+- ![VSC](https://img.shields.io/badge/-Visual%20Studio%20Code-8000ff)
+- ![Replit](https://img.shields.io/badge/-Repl.it-8000ff)
 
 ---
 
 <p align="center">
-    <a href="https://neexz.repl.co/"><img src="https://img.shields.io/badge/-Website-FF008F?style=flat"/></a>
+    <a href="https://neexz.repl.co/"><img src="https://img.shields.io/badge/-Website-8000ff?style=flat"/></a>
 </p>
