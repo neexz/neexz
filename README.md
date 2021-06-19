@@ -21,5 +21,5 @@
 ---
 
 <p align="center">
-    <a href="https://neexz.repl.co/"><img src="https://img.shields.io/badge/-WEBSITE-FF008F?style=flat"/></a>
+    <a href="https://neexz.repl.co/"><img src="https://img.shields.io/badge/-Website-FF008F?style=flat"/></a>
 </p>
