@@ -7,15 +7,15 @@
 <img alt="ya" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgifimage.net%2Fwp-content%2Fuploads%2F2017%2F08%2Frikka-takanashi-gif-25.gif&f=1&nofb=1" align="right"/>
 
 #### Languages
-- ![JS](https://img.shields.io/badge/-JS-FF008F)
-- ![HTML](https://img.shields.io/badge/-HTML-FF008F)
-- ![CSS](https://img.shields.io/badge/-CSS-FF008F)
-- ![PY](https://img.shields.io/badge/-PY-FF008F)
-- ![BAT](https://img.shields.io/badge/-BAT-FF008F)
+- ![JS](https://img.shields.io/badge/-Javascript-FF008F)
+- ![HTML](https://img.shields.io/badge/-Html-FF008F)
+- ![CSS](https://img.shields.io/badge/-Css-FF008F)
+- ![PY](https://img.shields.io/badge/-Python-FF008F)
+- ![BAT](https://img.shields.io/badge/-Batchfile-FF008F)
 
 #### Programs
-- ![VS](https://img.shields.io/badge/-VS-FF008F)
-- ![VSC](https://img.shields.io/badge/-VSC-FF008F)
+- ![VS](https://img.shields.io/badge/-Visual%20Studio-FF008F)
+- ![VSC](https://img.shields.io/badge/-Visual%20Studio%20Code-VFF008F)
 - ![Replit](https://img.shields.io/badge/-Repl.it-FF008F)
 
 ---
