@@ -12,13 +12,13 @@
 - ![Prolog](https://img.shields.io/badge/-Prolog-FF008F)
 
 #### Programs
-- ![unpacker](https://img.shields.io/badge/-Unpacker-FF008F)
+- ![VS](https://img.shields.io/badge/-Unpacker-FF008F)
 - ![VSC](https://img.shields.io/badge/-VS_Code-FF008F)
-- ![replit](https://img.shields.io/badge/-Repl.it-FF008F)
+- ![Replit](https://img.shields.io/badge/-Repl.it-FF008F)
 
 ---
 
 <p align="center">
-    <a href="https://discord.gg/DqnDHx7NzA"><img src="https://img.shields.io/badge/-mxq_-FF008F?style=flat&logo=discord"/></a>
-    <a href="https://skids.host/"><img src="https://img.shields.io/badge/-My_Website-FF008F?style=flat"/></a>
+    <a href="https://discord.gg/host"><img src="https://img.shields.io/badge/-neexz#0001_-FF008F?style=flat&logo=discord"/></a>
+    <a href="https://neexz.repl.co/"><img src="https://img.shields.io/badge/-My_Website-FF008F?style=flat"/></a>
 </p>
