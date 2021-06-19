@@ -9,7 +9,7 @@
 #### Languages
 - ![JS](https://img.shields.io/badge/-JS-FF008F)
 - ![HTML](https://img.shields.io/badge/-HTML-FF008F)
-- ![CSS](https://img.shields.io/badge/-Prolog-FF008F)
+- ![CSS](https://img.shields.io/badge/-CSS-FF008F)
 - ![PY](https://img.shields.io/badge/-PY-FF008F)
 - ![BAT](https://img.shields.io/badge/-BAT-FF008F)
 
