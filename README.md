@@ -4,7 +4,7 @@
 
 ---
 
-<img alt="ya" src="https://cdn.discordapp.com/attachments/855701330147409921/855753950980472853/unknown.png" align="right"/>
+<img alt="ya" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgifimage.net%2Fwp-content%2Fuploads%2F2017%2F08%2Frikka-takanashi-gif-25.gif&f=1&nofb=1" align="right"/>
 
 #### Languages
 - ![JS](https://img.shields.io/badge/-Javascript-8000ff)
@@ -12,6 +12,7 @@
 - ![CSS](https://img.shields.io/badge/-Css-8000ff)
 - ![PY](https://img.shields.io/badge/-Python-8000ff)
 - ![BAT](https://img.shields.io/badge/-Batchfile-8000ff)
+- ![C#](https://img.shields.io/badge/-Csharp-8000ff)
 
 #### Programs
 - ![VS](https://img.shields.io/badge/-Visual%20Studio-8000ff)
