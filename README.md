@@ -15,7 +15,7 @@
 
 #### Programs
 - ![VS](https://img.shields.io/badge/-Visual%20Studio-FF008F)
-- ![VSC](https://img.shields.io/badge/-Visual%20Studio%20Code-VFF008F)
+- ![VSC](https://img.shields.io/badge/-Visual%20Studio%20Code-FF008F)
 - ![Replit](https://img.shields.io/badge/-Repl.it-FF008F)
 
 ---
