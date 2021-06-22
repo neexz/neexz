@@ -1,13 +1,9 @@
 <p align='center'>
-  <b>Hi 👋, I'm Kaneki</b><br>
-  <a href="https://discord.gg/bdUM6SbEpJ">Discord</a> |
-  <a href="https://www.youtube.com/channel/UC-XII5SSqbMOF1UX3N0Gl8g">YouTube</a> |
-  <a href="https://twitter.com/Kaneki_Web">Twitter</a> |
-  <a href="https://codepen.io/KanekiWeb">Code Pen</a>
+  <b>Hi 👋, I'm neexz</b><br>
 </p>
 
 <p align="center"><br>
-  <a href="https://github.com/KanekiX2">
+  <a href="https://github.com/neexz">
     <img src="https://discord.c99.nl/widget/theme-4/783373307441184812.png"/>
      </a>
 </p>
@@ -17,7 +13,6 @@
 	<b>Languages</b>
 	<br>
 	<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-	<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
 	<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 	<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
 	<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
@@ -25,7 +20,7 @@
 	<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 	<br><br>
 	<b>My Github Stats</b><br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=KanekiWeb&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="kanekix2"/><br>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=KanekiWeb&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="kanekix2"/>
 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanekiWeb&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="kanekix2"/>
 </p>
 
