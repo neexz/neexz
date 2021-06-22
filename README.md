@@ -1,7 +1,7 @@
 <p align='center'>
   <b>Hi 👋, I'm neexz</b><br>
 </p>
-
+--- 
 <p align="center"><br>
   <a href="https://github.com/neexz">
     <img src="https://discord.c99.nl/widget/theme-4/783373307441184812.png"/>
@@ -9,6 +9,9 @@
 </p>
 
 <br><br>
+
+--- 
+
 <p align="center">
 	<b>Languages</b>
 	<br>
@@ -22,14 +25,6 @@
 	<b>My Github Stats</b><br>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=KanekiWeb&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="kanekix2"/>
 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanekiWeb&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="kanekix2"/>
-</p>
+</p> 
 
 
-<p>&nbsp;</p>    
-
----  
-
-<p align="center"> 
-  Compteur de visites :<br>
-  <img src="https://profile-counter.glitch.me/KanekiWeb/count.svg" />
-</p>
