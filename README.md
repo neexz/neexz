@@ -1,26 +1,40 @@
-<p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=neexz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+<p align='center'>
+  <b>Hi 👋, I'm Kaneki</b><br>
+  <a href="https://discord.gg/bdUM6SbEpJ">Discord</a> |
+  <a href="https://www.youtube.com/channel/UC-XII5SSqbMOF1UX3N0Gl8g">YouTube</a> |
+  <a href="https://twitter.com/Kaneki_Web">Twitter</a> |
+  <a href="https://codepen.io/KanekiWeb">Code Pen</a>
 </p>
 
----
+<p align="center"><br>
+  <a href="https://github.com/KanekiX2">
+    <img src="https://discord.c99.nl/widget/theme-4/789071575420370975.png"/>
+     </a>
+</p>
 
-<img alt="ya" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgifimage.net%2Fwp-content%2Fuploads%2F2017%2F08%2Frikka-takanashi-gif-25.gif&f=1&nofb=1" align="right"/>
-
-#### Languages
-- ![JS](https://img.shields.io/badge/-Javascript-8000ff)
-- ![HTML](https://img.shields.io/badge/-Html-8000ff)
-- ![CSS](https://img.shields.io/badge/-Css-8000ff)
-- ![PY](https://img.shields.io/badge/-Python-8000ff)
-- ![BAT](https://img.shields.io/badge/-Batchfile-8000ff)
-- ![C#](https://img.shields.io/badge/-Csharp-8000ff)
-
-#### Programs
-- ![VS](https://img.shields.io/badge/-Visual%20Studio-8000ff)
-- ![VSC](https://img.shields.io/badge/-Visual%20Studio%20Code-8000ff)
-- ![Replit](https://img.shields.io/badge/-Repl.it-8000ff)
-
----
-
+<br><br>
 <p align="center">
-    <a href="https://neexz.repl.co/"><img src="https://img.shields.io/badge/-Website-8000ff?style=flat"/></a>
+	<b>Language</b>
+	<br>
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;|
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>&nbsp;|
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>&nbsp;|
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>&nbsp;|
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>&nbsp;|
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>&nbsp;|
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>&nbsp;
+	<br><br>
+	<b>My Github Stats</b><br>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=KanekiWeb&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="kanekix2"/><br>
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanekiWeb&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="kanekix2"/>
+</p>
+
+
+<p>&nbsp;</p>    
+
+---  
+
+<p align="center"> 
+  Compteur de visites :<br>
+  <img src="https://profile-counter.glitch.me/KanekiWeb/count.svg" />
 </p>
