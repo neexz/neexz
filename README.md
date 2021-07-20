@@ -1,4 +1,4 @@
---- 
+
 
 
 <p align='center'>
@@ -7,27 +7,6 @@
 
 --- 
 
-<p align="center"><br>
-  <a href="https://github.com/neexz">
-    <img src="https://discord.c99.nl/widget/theme-4/783373307441184812.png"/>
-     </a>
-</p>
-
---- 
-
-<p align="center">
-	<b>Languages</b><br>
-	<br>
-	<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-	<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-	<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-	<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-	<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png">
-	<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-	<br><br>
-	<b>My Github Stats</b><br>
-	<br>
-    <img align="center" src="https://githubreadmestats.vercel.app/apiusername=neexz&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" <br>
 	<img align="center" src="https://githubreadmestats.vercel.app/api/toplangs/username=neexz&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 </p> 
 
