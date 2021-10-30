@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-<a><img src="https://img.shields.io/badge/javascript-HexColor?style=for-the-badge&logo=javascript&color=F7DF1E&logoColor=#2a6ecb"/></a>
+<a><img src="https://img.shields.io/badge/javascript-HexColor?style=for-the-badge&logo=javascript&color=F7DF1E&logoColor="#2a6ecb"/></a>
 <a><img src="https://img.shields.io/badge/node.js-HexColor?style=for-the-badge&logo=node.js&color=339933&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/python-HexColor?style=for-the-badge&logo=python&color=3776AB&logoColor=white"/></a><br>
 <a><img src="https://img.shields.io/badge/html-HexColor?style=for-the-badge&logo=html5&color=E34F26&logoColor=white"/></a>
