@@ -9,4 +9,5 @@
 <a><img src="https://img.shields.io/badge/html-HexColor?style=for-the-badge&logo=html5&color=0d1117&logoColor=2a6ecb"/></a>
 <a><img src="https://img.shields.io/badge/css-HexColor?style=for-the-badge&logo=css3&color=0d1117&logoColor=2a6ecb"/></a>
 <a><img src="https://img.shields.io/badge/CSharp-HexColor?style=for-the-badge&logo=c-sharp&color=0d1117&logoColor=2a6ecb"/></a>
+ <a><img src="https://img.shields.io/badge/lua-HexColor?style=for-the-badge&logo=c-sharp&color=0d1117&logoColor=2a6ecb"/></a>
 </div>
